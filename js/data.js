@@ -1,0 +1,1 @@
+data.textContent = localStorage.getItem('data');
